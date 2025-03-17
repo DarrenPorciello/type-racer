@@ -1,2 +1,3 @@
 node_modules/
-config/keys_dev.js
+# The config/keys.js has garbage data as of now, and can be commited
+# config/keys_dev.js
