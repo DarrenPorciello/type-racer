@@ -14,11 +14,11 @@ Rocket Typer was designed to test your typing speed and see how you stack up aga
 * <strong>Other</strong>: SCSS, Express.js, Heroku, Socket.io
 
 # How to run
-## 1. Ensure that npm is installed and is version 10.13.0.
+## 1. Ensure that npm is installed and is a version greater than 9.
    
-  To check, run `npm -v` and confirm it prints 10.13.0.  
+  To check, run `npm -v` and confirm it prints a version > 9.  
   If not installed, download Node.js (includes npm) from https://nodejs.org/en/download.  
-  To change versions, install nvm (https://github.com/nvm-sh/nvm or https://github.com/coreybutler/nvm-windows) and run `nvm install 20.9.0 && nvm use 20.9.0`, or update npm directly with `npm install -g npm@10.13.0`.
+  To change versions update npm directly with `npm install -g npm@latest`.
 
 ## 2. In the type-racer directory, navigate to the frontend directory using
     cd frontend
